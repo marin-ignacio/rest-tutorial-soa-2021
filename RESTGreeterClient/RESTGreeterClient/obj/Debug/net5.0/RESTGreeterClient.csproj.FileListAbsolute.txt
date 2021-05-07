@@ -1,0 +1,16 @@
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\bin\Debug\net5.0\RESTGreeterClient.exe
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\bin\Debug\net5.0\RESTGreeterClient.deps.json
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\bin\Debug\net5.0\RESTGreeterClient.runtimeconfig.json
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\bin\Debug\net5.0\RESTGreeterClient.runtimeconfig.dev.json
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\bin\Debug\net5.0\RESTGreeterClient.dll
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\bin\Debug\net5.0\ref\RESTGreeterClient.dll
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\bin\Debug\net5.0\RESTGreeterClient.pdb
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\RESTGreeterClient.csprojAssemblyReference.cache
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\RESTGreeterClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\RESTGreeterClient.AssemblyInfoInputs.cache
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\RESTGreeterClient.AssemblyInfo.cs
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\RESTGreeterClient.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\RESTGreeterClient.dll
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\ref\RESTGreeterClient.dll
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\RESTGreeterClient.pdb
+C:\Users\nacho\source\repos\RESTGreeterClient\RESTGreeterClient\obj\Debug\net5.0\RESTGreeterClient.genruntimeconfig.cache
